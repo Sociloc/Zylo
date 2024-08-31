@@ -11,7 +11,8 @@ Zylo solves many medical problems, due to that, Zylo utilizes many different alg
 In conclusion, Zylo leverages many ground-breaking technologies in order to segregate, classify, and predict many types of medical related data. While still in BETA development Zylo is representing a great leap toward automated medical interactions. (NOTE: Sociloc takes the prevention of biased algorithms very seriously, and while sometimes inevetible, before utilizing our model please look through the data which we are using)
 
 ## Datasets
-- Diabetes Detection: Chang, Victor et al. “Pima Indians diabetes mellitus classification based on machine learning (ML) algorithms.” Neural computing & applications, 1-17. 24 Mar. 2022, doi:10.1007/s00521-022-07049-z
+
+
 
 
 
