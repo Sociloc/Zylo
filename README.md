@@ -8,7 +8,7 @@ Zylo solves many medical problems, due to that, Zylo utilizes many different alg
 
 
 ## Conclusion
-In conclusion, Zylo leverages many ground-breaking technologies in order to segregate, classify, and predict many types of medical related data. While still in BETA development Zylo is representing a great leap toward automated medical interactions. (NOTE: Sociloc takes the prevention of biased algorithms very seriously, and while sometimes inevetible, before utilizing our model please look through the data which we are using)
+In conclusion, Zylo leverages many ground-breaking technologies in order to classify and predict many types of medical related data. While still in BETA development Zylo is representing a great leap toward automated medical interactions. (NOTE: Sociloc takes the prevention of biased algorithms very seriously, and while sometimes inevetible, before utilizing our model please look through the data which we are using)
 
 ## Datasets
 
